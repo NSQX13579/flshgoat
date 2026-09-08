@@ -1,4 +1,4 @@
-# goat（梵高）
+# flshgoat(梵高)
 
 一个基于 [NoneBot2](https://nonebot.dev/) + OneBot V11 的 QQ 群聊机器人。
 
