@@ -1,0 +1,9 @@
+description: 人生重开模拟器
+manage: false
+matchers: []
+module_name: nonebot_plugin_remake
+name: 人生重开
+priority: 99
+sharding: false
+show: true
+usage: '@我 remake/liferestart/人生重开'

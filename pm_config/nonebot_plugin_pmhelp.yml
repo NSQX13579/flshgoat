@@ -1,0 +1,13 @@
+description: 自动插件管理器，可以自动生成帮助图，并对群/私聊进行权限管理，例如禁用，限流，撤回
+manage: false
+matchers:
+- {pm_description: 查看本帮助, pm_manage: false, pm_name: pm-help, pm_priority: 1, pm_sharding: true,
+  pm_show: true, pm_usage: help}
+- {pm_description: 禁用|取消禁用插件的群|用户使用权限/进行限流/延迟撤回, pm_manage: true, pm_name: pm-ban|unban,
+  pm_priority: 2, pm_sharding: true, pm_show: true, pm_usage: pm ban|unban <插件名>}
+module_name: nonebot_plugin_pmhelp
+name: PM帮助
+priority: 1
+sharding: false
+show: true
+usage: help

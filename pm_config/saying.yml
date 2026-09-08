@@ -1,0 +1,9 @@
+description: null
+manage: false
+matchers: []
+module_name: saying
+name: saying
+priority: 99
+sharding: false
+show: true
+usage: null

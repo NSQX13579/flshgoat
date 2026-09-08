@@ -1,0 +1,9 @@
+description: 接入 DeepSeek 模型，提供智能对话与问答功能
+manage: false
+matchers: []
+module_name: nonebot_plugin_deepseek
+name: DeepSeek
+priority: 99
+sharding: false
+show: true
+usage: /deepseek

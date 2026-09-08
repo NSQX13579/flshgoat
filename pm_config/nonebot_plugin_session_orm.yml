@@ -1,0 +1,9 @@
+description: 为 session 提供数据库模型及存取方法
+manage: false
+matchers: []
+module_name: nonebot_plugin_session_orm
+name: session 插件 orm 扩展
+priority: 99
+sharding: false
+show: true
+usage: 请参考文档

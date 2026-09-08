@@ -1,0 +1,62 @@
+{
+    "nonebot_plugin_heweather": {
+        "name": "天气查询",
+        "description": "用于查看某个地区的天气，用户想要查看天气时调用",
+        "usage": "发送“天气+地区”或“地区+天气”，例如：“上海天气”或“天气广州”"
+    },
+    "nonebot_plugin_handle": {
+        "name": "猜成语",
+        "description": "群聊猜成语小游戏，用户想要玩猜成语游戏时调用",
+        "usage": "发送“猜成语”"
+    },
+    "nonebot_plugin_minesweeper": {
+        "name": "扫雷",
+        "description": "群聊扫雷小游戏，用户想要玩扫雷游戏时调用",
+        "usage": "发送“扫雷”"
+    },
+    "nonebot_plugin_wordle": {
+        "name": "猜单词",
+        "description": "群聊猜单词小游戏，用户想要玩猜单词游戏时调用",
+        "usage": "发送“猜单词”"
+    },
+    "nonebot_plugin_memes": {
+        "name": "表情包制作",
+        "description": "用于制作各种表情包或梗图，用户想要制作表情包或梗图时可调用",
+        "usage": "发送“表情包制作”"
+    },
+    "nonebot_plugin_wordcloud": {
+        "name": "词云",
+        "description": "用于利用群消息生成词云",
+        "usage": "发送“[时间段]词云”，时间段有：今日，昨日，本周，上周，本月，上月，年度"
+    },
+    "nonebot_plugin_crazy_thursday": {
+        "name": "随机疯狂星期四文案",
+        "description": "用于随机输出KFC疯狂星期四文案，用户提到疯狂星期四时可调用",
+        "usage": "发送“疯狂星期四”"
+    },
+    "nonebot_plugin_remind": {
+        "name": "定时提醒",
+        "description": "用来提醒大家别忘记什么事情，可以看成定时提醒插件",
+        "usage": "发送“定时 [date]” 设置定时提醒，date为时间，格式为HH:MM，如 23:59， 不设置默认为17点"
+    },
+    "nonebot_plugin_picmenu_next": {
+        "name": "插件帮助",
+        "description": "用于列出所有插件的功能及其指令，用户想要了解有什么功能时可调用",
+        "usage": "发送“帮助”"
+    },
+    "nonebot_plugin_water_geoup_stats": {
+        "name": "发言统计",
+        "description": "用于统计群内所有用户的发言数据",
+        "usage": "发送“发言统计”或“月发言统计”"
+    },
+    "nonebot_plugin_jmdownloader": {
+        "name": "禁漫下载",
+        "description": "用于JMComic搜索、下载，用户想看本子时可调用",
+        "usage": "发送“jm搜索 [关键词]”"
+    },
+    "nonebot_plugin_oddtext": {
+        "name": "抽象文本生成",
+        "description": "用于抽象话等文本生成",
+        "usage": "发送“抽象话 [文本]”"
+    }
+}

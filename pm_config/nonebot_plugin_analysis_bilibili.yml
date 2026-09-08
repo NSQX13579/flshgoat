@@ -1,0 +1,9 @@
+description: 自动解析bilibili链接内容
+manage: false
+matchers: []
+module_name: nonebot_plugin_analysis_bilibili
+name: analysis_bilibili
+priority: 99
+sharding: false
+show: true
+usage: https://github.com/mengshouer/nonebot_plugin_analysis_bilibili?tab=readme-ov-file#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F

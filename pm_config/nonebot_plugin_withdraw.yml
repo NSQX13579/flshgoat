@@ -1,0 +1,11 @@
+description: 自助撤回机器人发出的消息
+manage: false
+matchers: []
+module_name: nonebot_plugin_withdraw
+name: 撤回
+priority: 99
+sharding: false
+show: true
+usage: '1、@我 撤回 [num]，num 指机器人发的倒数第几条消息，从 0 开始，默认为 0
+
+  2、回复需要撤回的消息，回复“撤回”'

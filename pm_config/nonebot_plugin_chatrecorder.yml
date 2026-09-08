@@ -1,0 +1,9 @@
+description: 记录机器人收到和发出的消息
+manage: false
+matchers: []
+module_name: nonebot_plugin_chatrecorder
+name: 聊天记录
+priority: 99
+sharding: false
+show: true
+usage: 请参考文档

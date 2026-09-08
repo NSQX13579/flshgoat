@@ -1,0 +1,13 @@
+description: "持续疯狂！KFC疯狂星期四\U0001F357"
+manage: false
+matchers: []
+module_name: nonebot_plugin_crazy_thursday
+name: 疯狂星期四
+priority: 99
+sharding: false
+show: true
+usage: 'KFC疯狂星期四 v0.2.8
+
+  [疯狂星期X] 随机输出KFC疯狂星期四文案
+
+  [狂乱X曜日] 随机输出KFC疯狂星期四文案'

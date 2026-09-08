@@ -1,0 +1,9 @@
+description: 以图片形式显示当前设备的运行状态
+manage: false
+matchers: []
+module_name: nonebot_plugin_picstatus
+name: PicStatus
+priority: 99
+sharding: false
+show: true
+usage: 指令：运行状态 / 状态 / zt / yxzt / status

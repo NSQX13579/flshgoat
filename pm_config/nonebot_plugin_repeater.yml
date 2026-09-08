@@ -1,0 +1,9 @@
+description: null
+manage: false
+matchers: []
+module_name: nonebot_plugin_repeater
+name: nonebot_plugin_repeater
+priority: 99
+sharding: false
+show: true
+usage: null

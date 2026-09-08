@@ -1,0 +1,18 @@
+[project]
+name = "goat"
+version = "0.1.0"
+description = "goat"
+readme = "README.md"
+requires-python = ">=3.9, <4.0"
+
+[tool.nonebot]
+adapters = [
+    {name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11"}
+    
+]
+plugins = [
+    #"nonebot_plugin_fix_qq_img_ssl"#修复访问 QQ 图床的 SSL 错误
+    #"nonebot_plugin_picstatus"
+]
+plugin_dirs = []
+builtin_plugins = ["echo"]

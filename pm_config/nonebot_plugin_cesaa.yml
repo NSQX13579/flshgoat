@@ -1,0 +1,9 @@
+description: 记录机器人收到和发出的消息
+manage: false
+matchers: []
+module_name: nonebot_plugin_cesaa
+name: 聊天记录扩展
+priority: 99
+sharding: false
+show: true
+usage: 请参考文档

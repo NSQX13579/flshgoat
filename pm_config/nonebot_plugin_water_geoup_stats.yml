@@ -1,0 +1,9 @@
+description: 统计群聊发言情况
+manage: false
+matchers: []
+module_name: nonebot_plugin_water_geoup_stats
+name: 发言统计
+priority: 99
+sharding: false
+show: true
+usage: "\n    统计群聊发言情况\n    "

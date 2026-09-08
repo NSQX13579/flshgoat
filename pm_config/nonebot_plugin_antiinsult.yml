@@ -1,0 +1,10 @@
+description: 反嘴臭插件
+manage: false
+matchers: []
+module_name: nonebot_plugin_antiinsult
+name: 反嘴臭
+priority: 99
+sharding: false
+show: true
+usage: "指令表:\n    添加/删除屏蔽词 xxx xxx ...\n    解除屏蔽 qq qq1 qq2 ...\n    查看临时黑名单\n    禁用/启用飞\U0001F434令
+  \   # 对喷模式开关"

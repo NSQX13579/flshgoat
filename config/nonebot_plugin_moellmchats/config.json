@@ -1,0 +1,15 @@
+{
+  "max_group_history": 10,
+  "max_user_history": 8,
+  "max_retry_times": 3,
+  "max_tool_rounds": 3,
+  "user_history_expire_seconds": 600,
+  "cd_seconds": 0,
+  "search_api": "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",
+  "fastai_enabled": true,
+  "emotions_enabled": true,
+  "emotion_rate": 0.1,
+  "emotions_dir": "data/emotions",
+  "private_chat_enabled": true,
+  "show_datetime": false
+}

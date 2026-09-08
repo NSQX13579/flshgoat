@@ -1,0 +1,17 @@
+description: JMComic搜索、下载插件，支持全局屏蔽jm号和tag，仅支持OnebotV11协议。
+manage: false
+matchers: []
+module_name: nonebot_plugin_jmdownloader
+name: JMComic插件
+priority: 99
+sharding: false
+show: true
+usage: 'jm下载 [jm号]：下载指定jm号的本子
+
+  jm查询 [jm号]：查询指定jm号的本子
+
+  jm搜索 [关键词]：搜索包含关键词的本子
+
+  jm设置文件夹 [文件夹名]：设置本群的本子储存文件夹
+
+  '

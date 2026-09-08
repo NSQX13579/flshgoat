@@ -1,0 +1,9 @@
+description: 如名
+manage: false
+matchers: []
+module_name: nonebot_plugin_fix_qq_img_ssl
+name: 修复 QQ 图床 SSL 错误
+priority: 99
+sharding: false
+show: true
+usage: 加载即有效

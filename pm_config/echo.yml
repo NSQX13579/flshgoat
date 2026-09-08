@@ -1,0 +1,9 @@
+description: 重复你说的话
+manage: false
+matchers: []
+module_name: echo
+name: echo
+priority: 99
+sharding: false
+show: true
+usage: /echo [text]

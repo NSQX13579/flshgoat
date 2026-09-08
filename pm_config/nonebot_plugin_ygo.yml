@@ -1,0 +1,9 @@
+description: null
+manage: false
+matchers: []
+module_name: nonebot_plugin_ygo
+name: nonebot_plugin_ygo
+priority: 99
+sharding: false
+show: true
+usage: null

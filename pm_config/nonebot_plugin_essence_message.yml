@@ -1,0 +1,9 @@
+description: 用于整理精华消息
+manage: false
+matchers: []
+module_name: nonebot_plugin_essence_message
+name: 精华消息管理
+priority: 99
+sharding: false
+show: true
+usage: 自动存储精华消息备份并提供一些查询功能

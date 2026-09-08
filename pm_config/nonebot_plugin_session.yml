@@ -1,0 +1,9 @@
+description: 会话信息提取与会话id定义插件
+manage: false
+matchers: []
+module_name: nonebot_plugin_session
+name: 会话id
+priority: 99
+sharding: false
+show: true
+usage: 请参考文档

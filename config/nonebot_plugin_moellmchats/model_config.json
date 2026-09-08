@@ -1,0 +1,14 @@
+{
+    "use_moe": true,
+    "moe_models": {
+        "0": "deepseek-reasoner (deepseek)",
+        "1": "deepseek-reasoner (deepseek)",
+        "2": "deepseek-reasoner (deepseek)"
+    },
+    "selected_model": "deepseek-reasoner (deepseek)",
+    "category_model": "deepseek-v4-flash (deepseek)",
+    "vision_model": "",
+    "use_web_search": true,
+    "summary_model": "deepseek-v4-flash (deepseek)",
+    "use_tools": true
+}

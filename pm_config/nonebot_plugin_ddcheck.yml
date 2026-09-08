@@ -1,0 +1,9 @@
+description: 查询B站用户关注的VTuber成分
+manage: false
+matchers: []
+module_name: nonebot_plugin_ddcheck
+name: 成分姬
+priority: 99
+sharding: false
+show: true
+usage: 查成分 B站用户名/UID

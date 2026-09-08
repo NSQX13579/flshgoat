@@ -1,0 +1,51 @@
+# ================= 敏感信息（永不提交） =================
+.env
+.env.*
+!.env.example
+config/nonebot_plugin_moellmchats/providers.toml
+
+# ================= Python / 虚拟环境 =================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ================= NoneBot 运行时数据（保留在服务器） =================
+# data/ 下全部为运行数据（含群号等隐私），只保留目录占位
+data/*
+!data/.gitkeep
+accounts/
+music/
+permissiondata/
+pm_userid_all/
+scheduledata/
+replydata/
+cache/
+shortcut.db
+
+# ================= 数据库 / 日志 / 缓存 =================
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+
+# ================= 生成产物 / 大文件 =================
+src/plugins/nonebot_plugin_makemidi/resources/midi/*.wav
+wordcloud/*.ttf
+wordcloud/*.ttc
+
+# ================= 系统 / 编辑器 =================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

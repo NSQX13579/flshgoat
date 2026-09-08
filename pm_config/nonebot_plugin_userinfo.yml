@@ -1,0 +1,9 @@
+description: 多平台的用户信息获取插件
+manage: false
+matchers: []
+module_name: nonebot_plugin_userinfo
+name: 用户信息
+priority: 99
+sharding: false
+show: true
+usage: 请参考文档

@@ -1,0 +1,9 @@
+description: 将两个emoji合成为一张图片
+manage: false
+matchers: []
+module_name: nonebot_plugin_emojimix
+name: emoji合成
+priority: 99
+sharding: false
+show: true
+usage: "{emoji1}+{emoji2}，如：\U0001F60E+\U0001F601"

@@ -1,0 +1,9 @@
+description: 点歌，支持qq、网易云等来源
+manage: false
+matchers: []
+module_name: nonebot_plugin_simplemusic
+name: 点歌
+priority: 99
+sharding: false
+show: true
+usage: 点歌/qq点歌/网易点歌/酷我点歌/酷狗点歌/咪咕点歌/b站点歌 + 关键词

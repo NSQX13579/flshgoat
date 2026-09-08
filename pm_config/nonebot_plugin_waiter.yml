@@ -1,0 +1,10 @@
+description: 提供一个 got-and-reject 会话控制的替代方案，可自由控制超时时间
+manage: false
+matchers: []
+module_name: nonebot_plugin_waiter
+name: Waiter 插件
+priority: 1
+sharding: false
+show: true
+usage: '@waiter(waits: list[type[Event] | str], matcher: type[Matcher] | Matcher,
+  parameterless: Iterable[Any] | None, keep_session: bool = False)'

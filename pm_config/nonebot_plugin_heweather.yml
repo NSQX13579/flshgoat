@@ -1,0 +1,9 @@
+description: 和风天气图片显示插件
+manage: false
+matchers: []
+module_name: nonebot_plugin_heweather
+name: 和风天气
+priority: 99
+sharding: false
+show: true
+usage: 天气地名 / 地名天气

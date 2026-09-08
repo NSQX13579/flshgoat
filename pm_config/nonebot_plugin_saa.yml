@@ -1,0 +1,9 @@
+description: '一个帮助处理不同 adapter 消息的适配和发送的插件 '
+manage: false
+matchers: []
+module_name: nonebot_plugin_saa
+name: 峯驰物流
+priority: 99
+sharding: false
+show: true
+usage: 请开发者参考文档

@@ -1,0 +1,9 @@
+description: NoneBot 数据存储插件
+manage: false
+matchers: []
+module_name: nonebot_plugin_datastore
+name: 数据存储
+priority: 99
+sharding: false
+show: true
+usage: 请参考文档

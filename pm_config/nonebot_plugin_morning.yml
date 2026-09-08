@@ -1,0 +1,27 @@
+description: 早晚安！养成良好生活作息！
+manage: false
+matchers: []
+module_name: nonebot_plugin_morning
+name: おはよう！
+priority: 99
+sharding: false
+show: true
+usage: '[早安] 早安/哦哈哟/おはよう
+
+  [晚安] 晚安/哦呀斯密/おやすみ
+
+  [我的作息] 看看自己的作息
+
+  [群友作息] 看看群友的作息
+
+  [早晚安设置] 查看当前配置
+
+  ------- 设置 -------
+
+  [早安开启/关闭 xx] 开启/关闭早安的某个配置
+
+  [早安设置 xx x] 设置早安配置的数值
+
+  [晚安开启/关闭 xx] 开启/关闭晚安的某个配置
+
+  [晚安设置 xx x] 设置晚安配置的数值'

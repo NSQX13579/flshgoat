@@ -1,0 +1,9 @@
+description: SQLAlchemy ORM support for nonebot
+manage: false
+matchers: []
+module_name: nonebot_plugin_orm
+name: nonebot-plugin-orm
+priority: 99
+sharding: false
+show: true
+usage: https://github.com/nonebot/plugin-orm

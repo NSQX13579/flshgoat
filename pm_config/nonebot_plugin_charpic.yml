@@ -1,0 +1,9 @@
+description: 合成字符画
+manage: false
+matchers: []
+module_name: nonebot_plugin_charpic
+name: charpic
+priority: 99
+sharding: false
+show: true
+usage: /字符画 <图片>

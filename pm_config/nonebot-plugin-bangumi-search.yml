@@ -1,0 +1,9 @@
+description: null
+manage: false
+matchers: []
+module_name: nonebot-plugin-bangumi-search
+name: nonebot-plugin-bangumi-search
+priority: 99
+sharding: false
+show: true
+usage: null
